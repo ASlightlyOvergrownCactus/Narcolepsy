@@ -1,0 +1,12 @@
+{
+	"id": "cactus.eepy",
+	"name": "Narcolepsy",
+	"version": "1.0",
+	"hide_version": false,
+	"authors": "Cactus, aprilWorstMonth, Turt, Ethan Barron, Intikus",
+	"description": "mod that makes everybody sleepy\nBig Thanks to Intikus for adding music to the mod!",
+	"requirements": [],
+	"requirements_names": [],
+	"checksum_override_version": false,
+	"tags": [ "Game Mechanics" ]
+}
